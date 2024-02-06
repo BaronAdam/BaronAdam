@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaronAdam
-- 👀 I’m interested in Web dev, .Net, Angular and Flutter.
-- 🌱 I’m currently learning Azure and async communication.
+- 👀 I’m interested in Web dev, .Net and React.
+- 🌱 I’m currently learning advanced Azure topics.
 - 💞️ I’m looking to collaborate on any web app.
 - 📫 How to reach me - dm me @ https://www.linkedin.com/in/barona/
 
